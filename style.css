@@ -1,0 +1,69 @@
+
+.main{
+    
+    border-collapse: collapse;
+    
+}
+.maindiv{
+    width:1300px;
+    margin:20px;
+    background-color: wheat;
+}
+
+.head{
+    background-color: brown;
+    color:white;
+    text-align: center;
+}
+.und{
+    color: yellow;
+}
+
+ .firstcol{
+     width:20px;
+ }
+
+ tbody{
+     background-color: wheat;
+ }
+
+ .ast{
+     color:red
+ }
+ .pad{
+margin-left:20px;
+ }
+ .pad1{
+    margin-left:300px;
+ }
+ .pad2{
+    margin-left:195px;
+ }
+ .pad3{
+    margin-left:210px;
+ }
+ .lastcol{
+     width: 50%;;
+ }
+ .blue{
+     color:blue;
+ }
+ .sub{
+     border-collapse: collapse;
+     width:100%
+ }
+ .db{
+     color: darkblue;
+ }
+ .fetch{
+     border-style: none;
+     padding: 10px;
+     color:grey;
+ }
+
+ table{
+     font-weight: bold;
+ }
+ .norm{
+     font-weight: normal;
+ }
